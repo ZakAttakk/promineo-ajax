@@ -1,4 +1,4 @@
-var apiURL = "https://crudcrud.com/api/47d78bafbef5457d9e3f93ddef833823";
+var apiURL = "https://crudcrud.com/api/7d3f80d4512c44a0b08726b83eebf410";
 
 async function getAlbums() {
   var result = await $.ajax({
